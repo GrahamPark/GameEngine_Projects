@@ -1,0 +1,2 @@
+Add the Plant files to the CMakeLists.txt
+Add the OpenGL Library to CMakeLists and link it.

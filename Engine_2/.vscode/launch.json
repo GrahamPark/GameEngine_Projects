@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "cl - Debug x64",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}\\projects\\helloworld\\Build\\x64\\helloworld.exe",
+            "stopAtEntry": false,
+            "console": "externalTerminal",
+            "cwd": "${fileDirname}",
+            //"preLaunchTask": "cl - Build x64"
+        }
+    ]
+}

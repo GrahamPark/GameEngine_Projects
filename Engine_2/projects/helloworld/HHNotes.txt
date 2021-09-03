@@ -1,0 +1,2 @@
+Handmade Hero Series Notes:
+    local_persist, global_variable, and internal are just typedefs for static.
