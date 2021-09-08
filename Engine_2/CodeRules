@@ -1,0 +1,4 @@
+camelCase for local variables.
+m_camelCase for member variables. 
+PascalCase for variables passed in.
+g_PascalCase for global variables.
